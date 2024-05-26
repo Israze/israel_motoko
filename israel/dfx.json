@@ -1,0 +1,15 @@
+{
+  "canisters": {
+    "israel": {
+      "main": "src/israel/main.mo",
+      "type": "motoko"
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8011",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}
